@@ -1,5 +1,9 @@
 # tuGerente_test
-Interview Test de tuGerente
+Interview Test de tuGerente hecho con Django y Djangorestframework.
+
+Para correr este test seguir estos pasos:
+- Migrar los modelos a la base de datos con python manage.py migrate (la BD es sqlite)
+- Correr el servidor virtual con python manage.py runserver
 # Endpoints 
 Todos los endpoints mencionados son con el método POST.
 - /clients
